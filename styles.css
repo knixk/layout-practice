@@ -75,6 +75,19 @@ h2 {
   text-align: center;
 }
 
-.box1 > img {
+.box1 {
   width: 100%;
+  /* background-image: url("https://cdn.corporatefinanceinstitute.com/assets/line-graph.jpg") no-repeat; */
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+
+li {
+    list-style-type: none;
 }
