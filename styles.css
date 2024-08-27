@@ -90,4 +90,7 @@ ul {
 
 li {
     list-style-type: none;
+    text-decoration: underline;
+    text-underline-offset: 100px;
+    display: pointer;
 }
